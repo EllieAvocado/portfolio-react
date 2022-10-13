@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df4332c0.css",
+    "main.js": "/static/js/main.16c3d6b6.js",
+    "static/js/787.ed8c29b1.chunk.js": "/static/js/787.ed8c29b1.chunk.js",
+    "static/media/project4.png": "/static/media/project4.ab0e113ab44ceb3c1d75.png",
+    "static/media/hero-bg.svg": "/static/media/hero-bg.d49c11b766b4aa57e284.svg",
+    "static/media/gleent.svg": "/static/media/gleent.35f1f6808b5b979a21bd7269eb05b9d6.svg",
+    "static/media/testech.svg": "/static/media/testech.cbcebe1cd87d6084e0ef27ce8813c76b.svg",
+    "static/media/project1.png": "/static/media/project1.126b17e14f5b974b0818.png",
+    "static/media/project2.png": "/static/media/project2.a5e153c423c8fb78ec83.png",
+    "static/media/slti-logo.svg": "/static/media/slti-logo.2c4a73c18f646e52c843170c3428c8b5.svg",
+    "static/media/project3.png": "/static/media/project3.608e2f9e253412fb6d37.png",
+    "static/media/Vector.svg": "/static/media/Vector.e1d55612f08bdfa981196851cda6161d.svg",
+    "static/media/netflix.svg": "/static/media/netflix.77620947280ff58a21f102f8d5ecfde5.svg",
+    "static/media/cursor.svg": "/static/media/cursor.bfe912a7f30ca38d752a.svg",
+    "static/media/external-pointer.svg": "/static/media/external-pointer.6d461b11faa57720aae5.svg",
+    "index.html": "/index.html",
+    "static/media/brands-dot.svg": "/static/media/brands-dot.c3fa0ac1541d09ee62abc748ff4a866e.svg",
+    "static/media/pointer.svg": "/static/media/pointer.ae8cab2e1f01bff0431a.svg",
+    "main.df4332c0.css.map": "/static/css/main.df4332c0.css.map",
+    "main.16c3d6b6.js.map": "/static/js/main.16c3d6b6.js.map",
+    "787.ed8c29b1.chunk.js.map": "/static/js/787.ed8c29b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4332c0.css",
+    "static/js/main.16c3d6b6.js"
+  ]
+}
